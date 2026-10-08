@@ -1,3 +1,4 @@
+# 2048 game in python
 import logic
 
 if __name__ == '__main__':

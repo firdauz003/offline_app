@@ -1,3 +1,4 @@
+# game 2048 with GUI using tkinter.
 import tkinter as tk
 from tkinter import messagebox
 import logic  # the same logic.py from the GeeksforGeeks tutorial (unchanged)
